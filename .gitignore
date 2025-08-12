@@ -1,6 +1,15 @@
-# Python cache
 __pycache__/
 *.py[cod]
-
-# Env files
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
 .env
+.vscode/
+.idea/
+*.log
+bootstrap.log
+*.pem
+*.key
+*.pfx
